@@ -1,0 +1,1 @@
+After you commit a file into its stage, there's a commit line call a "HASH".
